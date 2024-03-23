@@ -1,4 +1,4 @@
-### Hi there 👋 My Name Is Arnav
+### Hi there 👋 My Name Is CrackedPotato
 
 
 - 🔭 I’m currently working on Rust
